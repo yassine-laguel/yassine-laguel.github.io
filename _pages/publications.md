@@ -1,10 +1,5 @@
-<!-- ---
-layout: archive
-title: "Publications/Manuscripts"
-permalink: /publications/
-author_profile: true
---- -->
 ---
+layout: archive
 title: "Publications/Manuscripts"
 author_profile: true
 redirect_from:
