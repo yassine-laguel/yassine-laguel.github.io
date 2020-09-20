@@ -9,10 +9,10 @@ redirect_from:
 
 I taught several courses for Bachelor and Master students, including:
 
-* [Convex and Distributed Optimization](https://sites.google.com/view/cvx-dist-opt/home), Second year master degree, fall 2019, Université Grenoble Alpes
-* [Introduction to Python](http://www.iutzeler.org/) (3x30h) - First year master degree, fall 2019 / fall 2020, Université Grenoble Alpes
-* Introduction to R (18h) - Second year bachelor degree, fall 2020, Université Grenoble Alpes
-* Numerical Optimization (25h) - First year master degree, spring 2019, ENSIMAG
-* Introduction to R (30h) - First year bachelor degree, spring 2019, Université Grenoble Alpes
-* Fundamental of Analysis and Algebra (~50h) - Classes préparatoires, Fall 2016, Spring 2017,  Grenoble INP
-* Fundamental of Analysis and Algebra (~50h) - First/Second year bachelor in mathematics, Spring 2016, Université Grenoble Alpes
+* [Convex and Distributed Optimization](https://sites.google.com/view/cvx-dist-opt/home), MSIAM master 2, fall 2019, Université Grenoble Alpes
+* [Introduction to Python](http://www.iutzeler.org/) (3x30h) - SSD Master 1, fall 2019 / fall 2020, Université Grenoble Alpes
+* Introduction to R (18h) - Licence Bio 2nd Year, fall 2020, Université Grenoble Alpes
+* Numerical Optimization (25h) - ENSIMAG 2nd Year (~1st Year of a Master degree), spring 2019, ENSIMAG
+* Introduction to R (30h) - Maths B.Sc 1st Year, spring 2019, Université Grenoble Alpes
+* Fundamental of Analysis and Algebra (~50h) - Classes préparatoires 1st Year (~ Math B.Sc 1st Year), Fall 2016, Spring 2017,  Grenoble INP
+* Fundamental of Analysis and Algebra (~50h) - Math B.Sc. 1st/2nd Year, Spring 2016, Université Grenoble Alpes
