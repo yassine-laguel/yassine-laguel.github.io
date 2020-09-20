@@ -9,7 +9,7 @@ redirect_from:
 
 I taught several courses for Bachelor and Master students, including:
 
-* [Convex and Distributed Optimization](https://sites.google.com/view/cvx-dist-opt/home), MSIAM master 2, fall 2019, Université Grenoble Alpes
+* [Convex and Distributed Optimization](https://sites.google.com/view/cvx-dist-opt/home) (18h), MSIAM master 2, fall 2019, Université Grenoble Alpes
 * [Introduction to Python](http://www.iutzeler.org/) (3x30h) - SSD Master 1, fall 2019 / fall 2020, Université Grenoble Alpes
 * Introduction to R (18h) - Licence Bio 2nd Year, fall 2020, Université Grenoble Alpes
 * Numerical Optimization (25h) - ENSIMAG 2nd Year (~1st Year of a Master degree), spring 2019, ENSIMAG
