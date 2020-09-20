@@ -14,4 +14,4 @@ I graduated both from ENSIMAG and Université Grenoble Alpes. My degrees are in 
 
 I am interested in optimization problems involving uncertainty and their applications, in both stochastic programming and machine learning.
 
-I am also in charge of the optimization reading group [GORGeous](https://sites.google.com/view/gorgeous-optim/) that happens every friday at LJK. If you are interested, feel free to contact me!
+I am also in charge of the optimization reading group [GORGeous](https://sites.google.com/view/gorgeous-optim/) that happens every friday at LJK. If you are interested, feel free to contact me at <first_name>[dot]<surname>@univ-grenoble-alpes.fr
