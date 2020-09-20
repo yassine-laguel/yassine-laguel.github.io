@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yassine Laguel"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "PhD. candidate at Laboratoire Jean Kuntzmann"
   location         : "University Grenoble Alpes"
   employer         :
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
   - scope:
       path: ""
