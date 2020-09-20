@@ -3,7 +3,7 @@ title: "First-order optimization for superquantile-based supervised learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2020-24-09
+date: 2020-01-09
 venue: 'Journal 1'
 paperurl: ''
 citation: ''
