@@ -187,10 +187,7 @@ collections:
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
-  - label: "Interests (shown in About widget)"
-        name: "interests"
-        required: false
-        widget: "list"
+
 
 
 # Defaults
