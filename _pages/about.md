@@ -15,3 +15,20 @@ I graduated both from ENSIMAG and Université Grenoble Alpes. My degrees are in 
 I am interested in optimization problems involving uncertainty and their applications, in both stochastic programming and machine learning.
 
 I am also in charge of the optimization reading group [GORGeous](https://sites.google.com/view/gorgeous-optim/) that happens every friday at LJK. If you are interested, feel free to contact me!
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Interests</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>
+      <ul>
+        <li>Stochastic Programming</li>
+        <li>Optimization under Uncertainty<li>
+        <li>Federated Learning<li>
+      </ul>
+    </td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
