@@ -19,21 +19,21 @@ I am also in charge of the optimization reading group [GORGeous](https://sites.g
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Interests</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">Education</b></td>
  </tr>
  <tr>
     <td>
       <ul>
         <li>Stochastic Programming</li>
-        <li>Optimization under Uncertainty<li>
-        <li>Federated Learning<li>
+        <li>Optimization under Uncertainty</li>
+        <li>Federated Learning</li>
       </ul>
     </td>
     <td>
     <ul>
       <li>PhD Candidate at Laboratoire Jean Kuntzmann</li>
-      <li>MSc in Machine Learning from Université Grenoble Alpes<li>
-      <li>Engineer degree from ENSIMAG<li>
+      <li>MSc in Machine Learning from Université Grenoble Alpes</li>
+      <li>Engineer degree from ENSIMAG</li>
     </ul>
     </td>
  </tr>
