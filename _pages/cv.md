@@ -11,29 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Candidate, Laboratoire Jean Kuntzmann, 2021 (expected)
+* M.S. in Machine Learning, Université Grenoble Alpes, 2018
+* Engineer degree, ENSIMAG, 2018
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring-Summer 2018: Research Assistant
+  * University of Washington, Seattle
+  * Duties included: Superquantile Regression and Applications
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Summer 2017: Research Assistant
+  * EDF R&D
+  * Duties included: Eventual Convexity of Chance Constraints
+
+* Summer 2016: Research Assistant
+  * WeSave
+  * Duties included: Financial applications of Random Matrix theory
+
+Prgeamming Skill
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Python
+  * Matplotlib, Numba, Scikit-Learn
+  * Pytorch, Tensorflow
+  * Spark
+
+* Other Languages
+  * Julia
+  * C, C++
+  * Java, Ada, R, SQL, HTML/CSS, JavaScript, Bash, Ocaml, Latex
 * Skill 3
 
 Publications
@@ -41,19 +48,14 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Organizer of the reading group GORGeous held at the laboratoire Jean  Kunzmann
