@@ -10,7 +10,7 @@ redirect_from:
 G. Bareilles, Y. **Laguel**, D. Grishchenko, F. Iutzeler, J. Malick
 *Submitted*.  
 
-**On the convexity of level-sets of probability functions**
+**On the convexity of level-sets of probability functions**  
 Y. **Laguel**, J. Malick, W. Van Ackooij
 *Submitted*.  
 
