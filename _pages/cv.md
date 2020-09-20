@@ -30,7 +30,7 @@ Work experience
   * WeSave
   * Duties included: Financial applications of Random Matrix theory
 
-Prgeamming Skill
+Programming Skill
 ======
 * Python
   * Matplotlib, Numba, Scikit-Learn
