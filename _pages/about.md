@@ -29,6 +29,12 @@ I am also in charge of the optimization reading group [GORGeous](https://sites.g
         <li>Federated Learning<li>
       </ul>
     </td>
-    <td>Lorem ipsum ...</td>
+    <td>
+    <ul>
+      <li>PhD Candidate at Laboratoire Jean Kuntzmann</li>
+      <li>MSc in Machine Learning from Université Grenoble Alpes<li>
+      <li>Engineer degree from ENSIMAG<li>
+    </ul>
+    </td>
  </tr>
 </table>
