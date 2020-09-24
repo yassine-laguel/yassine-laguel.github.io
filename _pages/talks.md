@@ -8,11 +8,11 @@ redirect_from:
 
 **FLOW Seminar**  
 Device Heterogeneity in Federated Learning : A superquantile approach - October 2020  
-*Saclay, France*  
+*Online Seminar*  
 
 **MLSP 2020**  
 First-order optimization for superquantile-based supervised learning - September 2020  
-*Saclay, France*  
+*Espoo, Finland*  
 
 **SMAI-MODE 2020**  
 A DC approach for chances constraints - September 2020  
