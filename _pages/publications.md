@@ -24,7 +24,8 @@ G. Bareilles, Y. Laguel, D. Grishchenko, F. Iutzeler, J. Malick.
 Y. Laguel, J. Malick, Z. Harchaoui.  
 *MLSP 2020 - Best Student Paper Award*.  
 [PDF](/files/spqr-paper.pdf)
-[Code](https://github.com/yassine-laguel/spqr)
+[Code](https://github.com/yassine-laguel/spqr)  
+
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
