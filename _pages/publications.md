@@ -10,15 +10,15 @@ redirect_from:
 Y. Laguel, J. Malick, W. Van Ackooij.  
 *Submitted*.  
 
+**Randomized progressive hedging methods for multi-stage stochastic programming.**  
+G. Bareilles, Y. Laguel, D. Grishchenko, F. Iutzeler, J. Malick.  
+*To appear in Annals of Operations Research*.  
+
 **Device Heterogeneity in Federated Learning: A Superquantile Approach.**  
 Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
 *Submitted*.  
 [PDF](https://arxiv.org/pdf/2002.11223.pdf) &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl)
-
-**Randomized progressive hedging methods for multi-stage stochastic programming.**  
-G. Bareilles, Y. Laguel, D. Grishchenko, F. Iutzeler, J. Malick.  
-*To appear in Annals of Operations Research*.  
 
 **First-order optimization for superquantile-based supervised learning.**  
 Y. Laguel, J. Malick, Z. Harchaoui.  
