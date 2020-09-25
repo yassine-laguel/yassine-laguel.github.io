@@ -19,13 +19,13 @@ Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.
 **Randomized progressive hedging methods for multi-stage stochastic programming.**  
 G. Bareilles, Y. Laguel, D. Grishchenko, F. Iutzeler, J. Malick.  
 *To appear in Annals of Operations Research*.  
-[PDF](https://hal.archives-ouvertes.fr/hal-02946615/document)  
+[PDF](https://hal.archives-ouvertes.fr/hal-02946615/document) &nbsp;
 [Code](https://github.com/yassine-laguel/RandomizedProgressiveHedging.jl)
 
 **First-order optimization for superquantile-based supervised learning.**  
 Y. Laguel, J. Malick, Z. Harchaoui.  
 *MLSP 2020 - Best Student Paper Award*.  
-[PDF](/files/spqr-paper.pdf)
+[PDF](/files/spqr-paper.pdf) &nbsp;
 [Code](https://github.com/yassine-laguel/spqr)  
 
 <!--
