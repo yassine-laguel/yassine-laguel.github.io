@@ -7,8 +7,9 @@ redirect_from:
 ---
 
 **On the convexity of level-sets of probability functions.**  
-Y. Laguel, J. Malick, W. Van Ackooij, G. M. Ramalho  
+W. Van Ackooij, Y. Laguel, J. Malick, G. M. Ramalho  
 *Submitted*.  
+[PDF](/files/transconcavity-paper.pdf) &nbsp;
 
 **Device Heterogeneity in Federated Learning: A Superquantile Approach.**  
 Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
