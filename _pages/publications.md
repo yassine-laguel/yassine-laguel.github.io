@@ -26,7 +26,7 @@ G. Bareilles, Y. Laguel, D. Grishchenko, F. Iutzeler, J. Malick.
 **First-order optimization for superquantile-based supervised learning.**  
 Y. Laguel, J. Malick, Z. Harchaoui.  
 *MLSP 2020 - Best Student Paper Award*.  
-[PDF](/files/spqr-paper.pdf) &nbsp;
+[PDF](https://arxiv.org/abs/2009.14575) &nbsp;
 [Code](https://github.com/yassine-laguel/spqr)  
 
 <!--
