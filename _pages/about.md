@@ -16,23 +16,23 @@ I am interested in optimization problems involving uncertainty and their applica
 
 I am also in charge of the optimization reading group [GORGeous](https://sites.google.com/view/gorgeous-optim/) that happens every friday at LJK. If you are interested, feel free to contact me!
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Interests</b></td>
-    <td><b style="font-size:30px">Education</b></td>
+<table style="border-collapse: collapse;">
+ <tr style="border-style: hidden">
+    <td style="border-style: hidden"><b style="font-size:30px; font-family:'Lora, sans-serif'" >Interests</b></td>
+    <td style="border-style: hidden"><b style="font-size:30px; font-family:'Lora, sans-serif'">Education</b></td>
  </tr>
- <tr>
-    <td>
+ <tr style="border-style: hidden">
+    <td style="border-style: hidden">
       <ul>
         <li>Stochastic Programming</li>
         <li>Optimization under Uncertainty</li>
         <li>Federated Learning</li>
       </ul>
     </td>
-    <td>
-    <ul>
-      <li>PhD Candidate at Laboratoire Jean Kuntzmann</li>
-      <li>MSc in Machine Learning from Université Grenoble Alpes</li>
+    <td style="border-style: hidden">
+    <ul class="fa-ul">
+	<li>  PhD Candidate at Laboratoire Jean Kuntzmann</li>
+      <li><i class="fa-li fa fa-check"></i>MSc in Machine Learning from Université Grenoble Alpes</li>
       <li>Engineer degree from ENSIMAG</li>
     </ul>
     </td>
