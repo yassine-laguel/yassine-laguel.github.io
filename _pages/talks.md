@@ -9,14 +9,20 @@ redirect_from:
 **FLOW Seminar**  
 Device Heterogeneity in Federated Learning : A superquantile approach - October 2020  
 *Online Seminar*  
+[Slides](/files/simplicial_fl-slides.pdf)  &nbsp;
+[Video](https://www.youtube.com/watch?v=W-oNzU04Y8I)
 
 **MLSP 2020**  
 First-order optimization for superquantile-based supervised learning - September 2020  
 *Espoo, Finland*  
+[Slides](/files/spqr-slides.pdf)  &nbsp;
+[Video](https://www.youtube.com/watch?v=JRWvWxOxRiQ)  
 
 **SMAI-MODE 2020**  
 A DC approach for chances constraints - September 2020  
 *Saclay, France*  
+[Slides](/files/taco-slides.pdf)  &nbsp;
+[Video](https://www.youtube.com/watch?v=KB3sV-trEy4&list)
 
 **Optimization for Machine Learning.**  
 Handling Device Heterogeneity in Federated Learning - March 2020  
