@@ -11,10 +11,6 @@ Y. Laguel, J Malick, W Van Ackooij
 *To be submitted soon!*  
 [Video](https://www.youtube.com/watch?v=KB3sV-trEy4&list)  
 
-**Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation**
-Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
-*Submitted*.  
-
 **On the convexity of level-sets of probability functions.**  
 W. Van Ackooij, Y. Laguel, J. Malick, G. M. Ramalho.  
 *Submitted*.  
@@ -32,6 +28,10 @@ G. Bareilles, Y. Laguel, D. Grishchenko, F. Iutzeler, J. Malick.
 *To appear in Annals of Operations Research*.  
 [PDF](https://hal.archives-ouvertes.fr/hal-02946615/document) &nbsp;
 [Code](https://github.com/yassine-laguel/RandomizedProgressiveHedging.jl)
+
+**Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation**  
+Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
+*Submitted*.  
 
 **First-order optimization for superquantile-based supervised learning.**  
 Y. Laguel, J. Malick, Z. Harchaoui.  
