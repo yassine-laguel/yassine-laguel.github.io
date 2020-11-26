@@ -18,6 +18,9 @@ redirect_from:
 [Code](https://github.com/yassine-laguel/spqr) &nbsp;
 [Documentation](https://yassine-laguel.github.io/spqr/)
 
+**Simplicial-FL: Implementation of Simplicial-FL to handle device heterogeneity in federated learning, in simulation.**  
+[Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
+
 
 <!--
 {% if author.googlescholar %}
