@@ -6,19 +6,20 @@ redirect_from:
   - /publications.html
 ---
 
-**[6] A data-driven approach for chance constrained problems.**  
-Y. Laguel, J Malick, W Van Ackooij  
-*To be submitted soon!*  
+**[6] Chance constrained problems: a bilevel convex optimization perspective.**  
+Y. Laguel, J Malick, W Van Ackooij.  
+*Submitted to Computational Optimization and Applications*
+[PDF](https://yassine-laguel.github.io/files/taco-paper.pdf)  
 [Video](https://www.youtube.com/watch?v=KB3sV-trEy4&list)  
 
 **[5] On the convexity of level-sets of probability functions.**  
 W. Van Ackooij, Y. Laguel, J. Malick, G. M. Ramalho.  
-*Submitted*.  
+*Submitted to SIAM Journal on Optimization*.  
 [PDF](/files/transconcavity-paper.pdf)  
 
 **[4] Device Heterogeneity in Federated Learning: A Superquantile Approach.**  
 Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
-*Submitted*.  
+*Preprint*.  
 [PDF](https://arxiv.org/pdf/2002.11223.pdf) &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
 [Video](https://www.youtube.com/watch?v=W-oNzU04Y8I)
@@ -31,7 +32,7 @@ G. Bareilles, Y. Laguel, D. Grishchenko, F. Iutzeler, J. Malick.
 
 **[2] Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation**  
 Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
-*Submitted*.  
+*Submitted to Set-Valued and Variational Analysis*.  
 
 **[1] First-order optimization for superquantile-based supervised learning.**  
 Y. Laguel, J. Malick, Z. Harchaoui.  
