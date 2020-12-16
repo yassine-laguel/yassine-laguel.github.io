@@ -8,7 +8,7 @@ redirect_from:
 
 **[6] Chance constrained problems: a bilevel convex optimization perspective.**  
 Y. Laguel, J Malick, W Van Ackooij.  
-*Submitted to Computational Optimization and Applications*
+*Submitted to Computational Optimization and Applications*.  
 [PDF](https://yassine-laguel.github.io/files/taco-paper.pdf) &nbsp;
 [Code](https://github.com/yassine-laguel/taco) &nbsp;
 [Video](https://www.youtube.com/watch?v=KB3sV-trEy4&list)  
