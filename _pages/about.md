@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+*I'm looking for a postdoc!*
+
 I'm a final year Phd student at **Laboratoire Jean Kuntznmann** (LJK) advised by [Jérôme Malick](https://ljk.imag.fr/membres/Jerome.Malick/).
 
 I graduated both from ENSIMAG and Université Grenoble Alpes. My degrees are in Applied Mathematics and Computer Science with a focus in the areas of Optimization, Machine Learning and Probability Theory.
