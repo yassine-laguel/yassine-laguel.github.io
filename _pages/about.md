@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*I'm looking for a postdoc!*
+***I'm looking for a postdoc!***
 
 I'm a final year Phd student at **Laboratoire Jean Kuntznmann** (LJK) advised by [Jérôme Malick](https://ljk.imag.fr/membres/Jerome.Malick/).
 
