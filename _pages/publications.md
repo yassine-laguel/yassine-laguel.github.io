@@ -18,22 +18,22 @@ W. Van Ackooij, Y. Laguel, J. Malick, G. M. Ramalho.
 *Submitted to SIAM Journal on Optimization*.  
 [PDF](/files/transconcavity-paper.pdf)  
 
-**[4] Device Heterogeneity in Federated Learning: A Superquantile Approach.**  
+**[4] Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation**  
 Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
-*Preprint*.  
+*Submitted to Set-Valued and Variational Analysis*.  
+
+**[3] A Superquantile Approach for Federated Learning with Heterogeneous Devices.**  
+Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
+*Accepted to the 55th Annual Conference on Information Sciences and Systems (CISS 2021)*.  
 [PDF](https://arxiv.org/pdf/2002.11223.pdf) &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
 [Video](https://www.youtube.com/watch?v=W-oNzU04Y8I)
 
-**[3] Randomized progressive hedging methods for multi-stage stochastic programming.**  
+**[2] Randomized progressive hedging methods for multi-stage stochastic programming.**  
 G. Bareilles, Y. Laguel, D. Grishchenko, F. Iutzeler, J. Malick.  
 *To appear in Annals of Operations Research*.  
 [PDF](https://hal.archives-ouvertes.fr/hal-02946615/document) &nbsp;
 [Code](https://github.com/yassine-laguel/RandomizedProgressiveHedging.jl)
-
-**[2] Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation**  
-Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
-*Submitted to Set-Valued and Variational Analysis*.  
 
 **[1] First-order optimization for superquantile-based supervised learning.**  
 Y. Laguel, J. Malick, Z. Harchaoui.  
