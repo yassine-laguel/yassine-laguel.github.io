@@ -15,7 +15,7 @@ Y. Laguel, J Malick, W Van Ackooij.
 
 **[5] On the convexity of level-sets of probability functions.**  
 W. Van Ackooij, Y. Laguel, J. Malick, G. M. Ramalho.  
-*Submitted to SIAM Journal on Optimization*.  
+*Submitted to the Journal of Convex Analysis*.  
 [PDF](/files/transconcavity-paper.pdf)  
 
 **[4] Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation**  
