@@ -14,7 +14,7 @@ Y. Laguel, J Malick, W Van Ackooij.
 [Video](https://www.youtube.com/watch?v=KB3sV-trEy4&list)  
 
 **[5] On the convexity of level-sets of probability functions.**  
-W. Van Ackooij, Y. Laguel, J. Malick, G. M. Ramalho.  
+Y. Laguel, W. Van Ackooij, J. Malick, G. M. Ramalho.  
 *Submitted to the Journal of Convex Analysis*.  
 [PDF](/files/transconcavity-paper.pdf)  
 
