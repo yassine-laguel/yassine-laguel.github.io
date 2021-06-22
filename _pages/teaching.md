@@ -9,6 +9,8 @@ redirect_from:
 
 I taught several courses for Bachelor and Master students, including:
 
+* Distributionally robust Machine Learning (4h) - Guest Lecture - Graduate course, spring 2021, University of Washington
+* Introduction to Federated Learning (1.5h) - Guest Lecture - ENSIMAG 2nd Year, spring 2021, ENSIMAG
 * [Convex and Distributed Optimization](https://sites.google.com/view/cvx-dist-opt/home) (18h), MSIAM M.Sc. 2nd Year, fall 2019, Université Grenoble Alpes
 * [Introduction to Python](https://sites.google.com/view/python-m1ssd/accueil) (3x30h) - SSD M.Sc. 1st Year, fall 2019 / fall 2020, Université Grenoble Alpes
 * Introduction to R (18h) - Licence Bio 2nd Year, fall 2020, Université Grenoble Alpes
