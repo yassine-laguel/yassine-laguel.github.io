@@ -13,25 +13,26 @@ Y. Laguel, J Malick, W Van Ackooij.
 [Code](https://github.com/yassine-laguel/taco) &nbsp;
 [Video](https://www.youtube.com/watch?v=KB3sV-trEy4&list)  
 
-**[5] On the convexity of level-sets of probability functions.**  
-Y. Laguel, W. Van Ackooij, J. Malick, G. M. Ramalho.  
-*Submitted to the Journal of Convex Analysis*.  
-[PDF](/files/transconcavity-paper.pdf)  
-
-**[4] Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation**  
+**[5] Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation**  
 Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
 *Submitted to Set-Valued and Variational Analysis*.  
+[PDF](/files/svaa-paper.pdf)  
+
+**[4] On the convexity of level-sets of probability functions.**  
+Y. Laguel, W. Van Ackooij, J. Malick, G. M. Ramalho.  
+*To appear in the Journal of Convex Analysis*.  
+[PDF](/files/transconcavity-paper.pdf)  
 
 **[3] A Superquantile Approach for Federated Learning with Heterogeneous Devices.**  
 Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
-*Accepted to the 55th Annual Conference on Information Sciences and Systems (CISS 2021)*.  
+*To appear in the proceedings of the 55th Annual Conference on Information Sciences and Systems (CISS 2021)*.  
 [PDF](https://arxiv.org/pdf/2002.11223.pdf) &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
 [Video](https://www.youtube.com/watch?v=W-oNzU04Y8I)
 
 **[2] Randomized progressive hedging methods for multi-stage stochastic programming.**  
 G. Bareilles, Y. Laguel, D. Grishchenko, F. Iutzeler, J. Malick.  
-*To appear in Annals of Operations Research*.  
+*Annals of Operations Research*.  
 [PDF](https://hal.archives-ouvertes.fr/hal-02946615/document) &nbsp;
 [Code](https://github.com/yassine-laguel/RandomizedProgressiveHedging.jl)
 
