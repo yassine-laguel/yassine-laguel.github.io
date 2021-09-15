@@ -15,7 +15,7 @@ Y. Laguel, J Malick, W Van Ackooij.
 
 **[5] Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation**  
 Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
-*Submitted to Set-Valued and Variational Analysis*.  
+*To appear Set-Valued and Variational Analysis*.  
 [PDF](/files/svaa-paper.pdf)  
 
 **[4] On the convexity of level-sets of probability functions.**  
