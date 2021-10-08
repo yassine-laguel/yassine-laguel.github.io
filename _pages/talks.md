@@ -5,19 +5,19 @@ author_profile: true
 redirect_from:
   - /talks.html
 ---
-**Journées des statistiques**
-Risk-sensitive learning for heterogeneous frameworks - June 2021
-*Nice, France*
+**Journées des statistiques**  
+Risk-sensitive learning for heterogeneous frameworks - June 2021  
+*Nice, France*  
 [Slides](/files/talk-sfl-jds)
 
 **ANSI Seminar**  
-On hidden convexity in chance constrained problems - May 2021
+On hidden convexity in chance constrained problems - May 2021  
 *Los Alamos, USA*  
 [Slides](/files/ansi-talk)
 
 **Workshop on Communication Efficient Distributed Optimization**  
 Device Heterogeneity in Federated Learning : A superquantile approach - April 2021  
-*Online Seminar*
+*Online Seminar*  
 [Poster](/files/poster-yassine_laguel.png)
 
 **FLOW Seminar**  
