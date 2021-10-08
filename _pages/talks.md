@@ -8,12 +8,12 @@ redirect_from:
 **Journées des statistiques**  
 Risk-sensitive learning for heterogeneous frameworks - June 2021  
 *Nice, France*  
-[Slides](/files/talk-sfl-jds)
+[Slides](/files/talk-sfl-jds.pdf)
 
 **ANSI Seminar**  
 On hidden convexity in chance constrained problems - May 2021  
 *Los Alamos, USA*  
-[Slides](/files/ansi-talk)
+[Slides](/files/ansi-talk.pdf)
 
 **Workshop on Communication Efficient Distributed Optimization**  
 Device Heterogeneity in Federated Learning : A superquantile approach - April 2021  
