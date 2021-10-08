@@ -20,12 +20,12 @@ Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.
 
 **[4] On the convexity of level-sets of probability functions.**  
 Y. Laguel, W. Van Ackooij, J. Malick, G. M. Ramalho.  
-*To appear in the Journal of Convex Analysis*.  
+*Journal of Convex Analysis*.  
 [PDF](/files/transconcavity-paper.pdf)  
 
 **[3] A Superquantile Approach for Federated Learning with Heterogeneous Devices.**  
 Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
-*To appear in the proceedings of the 55th Annual Conference on Information Sciences and Systems (CISS 2021)*.  
+*Proceedings of the 55th Annual Conference on Information Sciences and Systems (CISS 2021)*.  
 [PDF](https://arxiv.org/pdf/2002.11223.pdf) &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
 [Video](https://www.youtube.com/watch?v=W-oNzU04Y8I)
