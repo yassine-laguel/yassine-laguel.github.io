@@ -6,14 +6,21 @@ redirect_from:
   - /publications.html
 ---
 
-**[6] Chance constrained problems: a bilevel convex optimization perspective.**  
+**[7] Chance constrained problems: a bilevel convex optimization perspective.**  
 Y. Laguel, J Malick, W Van Ackooij.  
 *Submitted to Computational Optimization and Applications*.  
 [PDF](https://yassine-laguel.github.io/files/taco-paper.pdf) &nbsp;
 [Code](https://github.com/yassine-laguel/taco) &nbsp;
 [Video](https://www.youtube.com/watch?v=KB3sV-trEy4&list)  
 
-**[5] Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation**  
+**[6] Superquantile-based learning: a direct approach using gradient-based optimization**  
+Y. Laguel, J. Malick, Z. Harchaoui. (Journal version of [1](https://arxiv.org/abs/2009.14575))
+*To appear in the Journal of Signal Processing Systems*.  
+[PDF](/files/2021_jsps.pdf) &nbsp;
+[Code](https://github.com/yassine-laguel/spqr) &nbsp;
+[Video](https://www.youtube.com/watch?v=JRWvWxOxRiQ)
+
+**[5] Superquantiles at Work: Machine Learning Applications and Efficient (Sub)gradient Computation**  
 Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
 *To appear Set-Valued and Variational Analysis*.  
 [PDF](/files/svaa-paper.pdf)  
