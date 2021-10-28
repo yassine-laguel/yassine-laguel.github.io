@@ -14,7 +14,7 @@ Y. Laguel, J Malick, W Van Ackooij.
 [Video](https://www.youtube.com/watch?v=KB3sV-trEy4&list)  
 
 **[6] Superquantile-based learning: a direct approach using gradient-based optimization**  
-Y. Laguel, J. Malick, Z. Harchaoui. (Journal version of [1](https://arxiv.org/abs/2009.14575))
+Y. Laguel, J. Malick, Z. Harchaoui. (Journal version of [1](https://arxiv.org/abs/2009.14575))  
 *To appear in the Journal of Signal Processing Systems*.  
 [PDF](/files/2021_jsps.pdf) &nbsp;
 [Code](https://github.com/yassine-laguel/spqr) &nbsp;
