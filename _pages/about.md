@@ -10,13 +10,13 @@ redirect_from:
 
 <!-- ***I’m on the market for a postdoc position!*** -->
 
-I'm a final year Phd student at **Laboratoire Jean Kuntzmann** (LJK) advised by [Jérôme Malick](https://ljk.imag.fr/membres/Jerome.Malick/).
+I'm a postdoctoral researcher at Rutgers Business School, working with [Mert Gürbüzbalaban](https://scholar.google.fr/citations?hl=fr&user=m-nZ7MgAAAAJ).
 
-I graduated both from ENSIMAG and Université Grenoble Alpes. My degrees are in Applied Mathematics and Computer Science with a focus in the areas of Optimization, Machine Learning and Probability Theory.
+Prior to this position, I did my Ph. D. at the Laboratoire Jean Kuntzmann (Grenoble - France), under the supervision of [Jérôme Malick](https://ljk.imag.fr/membres/Jerome.Malick/).
 
 I am interested in optimization problems involving uncertainty and their applications, in both stochastic programming and machine learning.
 
-I am also in charge of the optimization reading group [GORGeous](https://sites.google.com/view/gorgeous-optim/) that happens every friday at LJK. If you are interested, feel free to contact me!
+<!-- I am also in charge of the optimization reading group [GORGeous](https://sites.google.com/view/gorgeous-optim/) that happens every friday at LJK. If you are interested, feel free to contact me! -->
 
 <table style="border-collapse: collapse;">
  <tr style="border-style: hidden">
@@ -33,7 +33,7 @@ I am also in charge of the optimization reading group [GORGeous](https://sites.g
     </td>
     <td style="border-style: hidden">
     <ul class="fa-ul">
-	<li><i class="fa-li fas fa-graduation-cap"></i>  PhD Candidate at Laboratoire Jean Kuntzmann</li>
+	<li><i class="fa-li fas fa-graduation-cap"></i>  PhD from Université Grenoble Alpes</li>
       <li><i class="fa-li fas fa-graduation-cap"></i>MSc in Machine Learning from Université Grenoble Alpes</li>
       <li><i class="fa-li fas fa-graduation-cap"></i>Engineer degree from ENSIMAG</li>
     </ul>
