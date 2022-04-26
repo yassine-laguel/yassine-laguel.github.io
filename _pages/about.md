@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ***I’m on the market for a postdoc position!*** -->
 
-I'm a postdoctoral researcher at Rutgers Business School, working with [Mert Gürbüzbalaban](https://scholar.google.fr/citations?hl=fr&user=m-nZ7MgAAAAJ).
+I'm a postdoctoral researcher at Rutgers University, working with [Mert Gürbüzbalaban](https://scholar.google.fr/citations?hl=fr&user=m-nZ7MgAAAAJ).
 
 Prior to this position, I did my Ph. D. at the Laboratoire Jean Kuntzmann (Grenoble - France), under the supervision of [Jérôme Malick](https://ljk.imag.fr/membres/Jerome.Malick/).
 

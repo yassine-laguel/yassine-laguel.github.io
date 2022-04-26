@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yassine Laguel"
 title_separator          : "-"
 name                     : &name "Yassine Laguel"
-description              : &description "PhD. Candidate at Laboratoire Jean Kuntzmann"
+description              : &description "Rutgers University"
 url                      : https://yassine-laguel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yassine-laguel.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yassine Laguel"
   avatar           : "profile_101.jpeg"
-  bio              : "PhD. candidate at Laboratoire Jean Kuntzmann"
-  location         : "University Grenoble Alpes"
+  bio              : "Rutgers University"
+  location         : #"University Grenoble Alpes"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "LaguelYassine"
   vine             :
   weibo            :
   xing             :

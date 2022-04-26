@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Softwares"
+title: "Software"
 author_profile: true
 redirect_from:
   - /softwares.html
