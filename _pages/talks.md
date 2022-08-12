@@ -5,6 +5,19 @@ author_profile: true
 redirect_from:
   - /talks.html
 ---
+
+**ICCOPT 2022**  
+New perspectives on robustness via the Conditional Value at Risk - July 2022
+*Lehigh, USA*  
+
+**University of Washington ML Seminar**
+Convex risk measures : models, algorithms and applications in federated learning - May 2022
+*Seattle, USA*
+
+**MAGNET Seminar**  
+Federated Learning with Heterogeneous Data : A Superquantile Optimization Approach - April 2022  
+*Lille, France*  
+
 **Journées des statistiques**  
 Risk-sensitive learning for heterogeneous frameworks - June 2021  
 *Nice, France*  

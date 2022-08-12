@@ -6,23 +6,33 @@ redirect_from:
   - /publications.html
 ---
 
+**[9] Push-Pull with Device Sampling.**  
+Y.-G. Hsieh, Yassine Laguel, Franck Iutzeler, J Malick.  
+*Submitted*.  
+[PDF](/files/ppds-paper.pdf)  
+
+**[8] Federated Learning with Heterogeneous Data: A Superquantile Optimization Approach.**  
+Y.-G. Hsieh, Yassine Laguel, Franck Iutzeler, J Malick.  
+*Submitted*.  
+[PDF](/files/ppds-paper.pdf)  
+
 **[7] Chance constrained problems: a bilevel convex optimization perspective.**  
-Y. Laguel, J Malick, W Van Ackooij.  
-*Submitted to Computational Optimization and Applications*.  
+K. Pillutla<sup>\*</sup>, Y. Laguel<sup>\*</sup>, J. Malick, Z. Harchaoui.  
+*Submitted*.  
 [PDF](https://yassine-laguel.github.io/files/taco-paper.pdf) &nbsp;
 [Code](https://github.com/yassine-laguel/taco) &nbsp;
 [Video](https://www.youtube.com/watch?v=KB3sV-trEy4&list)  
 
 **[6] Superquantile-based learning: a direct approach using gradient-based optimization**  
 Y. Laguel, J. Malick, Z. Harchaoui. (Journal version of [1](https://arxiv.org/abs/2009.14575))  
-*To appear in the Journal of Signal Processing Systems*.  
+*Journal of Signal Processing Systems*.  
 [PDF](/files/2021_jsps.pdf) &nbsp;
 [Code](https://github.com/yassine-laguel/spqr) &nbsp;
 [Video](https://www.youtube.com/watch?v=JRWvWxOxRiQ)
 
 **[5] Superquantiles at Work: Machine Learning Applications and Efficient (Sub)gradient Computation**  
-Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
-*To appear Set-Valued and Variational Analysis*.  
+Y. Laguel<sup>\*</sup>, K. Pillutla<sup>\*</sup>, J. Malick, Z. Harchaoui.  
+*Set-Valued and Variational Analysis*.  
 [PDF](/files/svaa-paper.pdf)  
 
 **[4] On the convexity of level-sets of probability functions.**  
@@ -31,7 +41,7 @@ Y. Laguel, W. Van Ackooij, J. Malick, G. M. Ramalho.
 [PDF](/files/transconcavity-paper.pdf)  
 
 **[3] A Superquantile Approach for Federated Learning with Heterogeneous Devices.**  
-Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
+Y. Laguel<sup>\*</sup>, K. Pillutla<sup>\*</sup>, J. Malick, Z. Harchaoui.  
 *Proceedings of the 55th Annual Conference on Information Sciences and Systems (CISS 2021)*.  
 [PDF](https://arxiv.org/pdf/2002.11223.pdf) &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
