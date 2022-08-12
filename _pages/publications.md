@@ -7,17 +7,17 @@ redirect_from:
 ---
 
 **[9] Push-Pull with Device Sampling.**  
-Y.-G. Hsieh, Yassine Laguel, Franck Iutzeler, J Malick.  
+Y.-G. Hsieh, Y. Laguel, F. Iutzeler, J. Malick.  
 *Submitted*.  
 [PDF](/files/ppds-paper.pdf)  
 
 **[8] Federated Learning with Heterogeneous Data: A Superquantile Optimization Approach.**  
-Y.-G. Hsieh, Yassine Laguel, Franck Iutzeler, J Malick.  
+K. Pillutla<sup>\*</sup>, Y. Laguel<sup>\*</sup>, J. Malick, Z. Harchaoui.
 *Submitted*.  
 [PDF](/files/ppds-paper.pdf)  
 
 **[7] Chance constrained problems: a bilevel convex optimization perspective.**  
-K. Pillutla<sup>\*</sup>, Y. Laguel<sup>\*</sup>, J. Malick, Z. Harchaoui.  
+Y. Laguel<sup>\*</sup>, W. Van Ackooij, J. Malick, Z. Harchaoui.  
 *Submitted*.  
 [PDF](https://yassine-laguel.github.io/files/taco-paper.pdf) &nbsp;
 [Code](https://github.com/yassine-laguel/taco) &nbsp;
