@@ -6,12 +6,12 @@ redirect_from:
   - /publications.html
 ---
 
-**[11] Push-Pull with Device Sampling.**  
+**[10] Push-Pull with Device Sampling.**  
 Y.-G. Hsieh, Y. Laguel, F. Iutzeler, J. Malick.  
 *Submitted*.  
 [PDF](/files/ppds-paper.pdf)  
 
-**[10] Risk-averse optimization: models, algorithms and applications in machine learning.**  
+**[9] Risk-averse optimization: models, algorithms and applications in machine learning.**  
 Y. Laguel.  
 *PhD Dissertation*.  
 [PDF](/files/phd_thesis.pdf)  

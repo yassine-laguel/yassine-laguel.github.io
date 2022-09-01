@@ -83,11 +83,11 @@ author:
   name             : "Yassine Laguel"
   avatar           : "profile_101.jpeg"
   bio              : "Rutgers University"
-  location         : "yassine [dot] laguel [at] rutgers [dot] edu"
+  location         : #"University Grenoble Alpes"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "yassine.laguel@rutgers.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
