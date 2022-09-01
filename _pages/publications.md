@@ -6,15 +6,20 @@ redirect_from:
   - /publications.html
 ---
 
-**[9] Push-Pull with Device Sampling.**  
+**[11] Push-Pull with Device Sampling.**  
 Y.-G. Hsieh, Y. Laguel, F. Iutzeler, J. Malick.  
 *Submitted*.  
 [PDF](/files/ppds-paper.pdf)  
 
+**[10] Risk-averse optimization: models, algorithms and applications in machine learning.**  
+Y. Laguel.  
+*PhD Dissertation*.  
+[PDF](/files/phd_thesis.pdf)  
+
 **[8] Federated Learning with Heterogeneous Data: A Superquantile Optimization Approach.**  
 K. Pillutla<sup>\*</sup>, Y. Laguel<sup>\*</sup>, J. Malick, Z. Harchaoui.
 *Submitted*.  
-[PDF](/files/ppds-paper.pdf)  
+[PDF](https://arxiv.org/pdf/2112.09429.pdf)  
 
 **[7] Chance constrained problems: a bilevel convex optimization perspective.**  
 Y. Laguel<sup>\*</sup>, W. Van Ackooij, J. Malick, Z. Harchaoui.  
