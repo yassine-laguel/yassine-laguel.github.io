@@ -10,11 +10,9 @@ redirect_from:
 
 <!-- ***I’m on the market for a postdoc position!*** -->
 
-I'm a postdoctoral researcher at Rutgers University, working with [Mert Gürbüzbalaban](https://scholar.google.fr/citations?hl=fr&user=m-nZ7MgAAAAJ).
+I'm a postdoctoral researcher at Rutgers University, working with [Mert Gürbüzbalaban](https://scholar.google.fr/citations?hl=fr&user=m-nZ7MgAAAAJ). During Fall semester 2022, I'm also a departmental guest at the Center for Statistics and Machine Learning (CSML) at Princeton Unversity.
 
-Prior to this position, I did my Ph. D. at the Laboratoire Jean Kuntzmann (Grenoble - France), under the supervision of [Jérôme Malick](https://ljk.imag.fr/membres/Jerome.Malick/).
-
-I am interested in optimization problems involving uncertainty and their applications, in both stochastic programming and machine learning.
+Prior to this position, I did my Ph. D. at the Laboratoire Jean Kuntzmann (Grenoble - France), under the supervision of [Jérôme Malick](https://ljk.imag.fr/membres/Jerome.Malick/). I am interested in optimization problems involving uncertainty and their applications, in both stochastic programming and machine learning.
 
 <!-- I am also in charge of the optimization reading group [GORGeous](https://sites.google.com/view/gorgeous-optim/) that happens every friday at LJK. If you are interested, feel free to contact me! -->
 
