@@ -22,7 +22,7 @@ K. Pillutla<sup>\*</sup>, Y. Laguel<sup>\*</sup>, J. Malick, Z. Harchaoui.
 [PDF](https://arxiv.org/pdf/2112.09429.pdf)  
 
 **[7] Chance constrained problems: a bilevel convex optimization perspective.**  
-Y. Laguel<sup>\*</sup>, W. Van Ackooij, J. Malick, Z. Harchaoui.  
+Y. Laguel<sup>\*</sup>, W. Van Ackooij, J. Malick.  
 *Submitted*.  
 [PDF](https://yassine-laguel.github.io/files/taco-paper.pdf) &nbsp;
 [Code](https://github.com/yassine-laguel/taco) &nbsp;
