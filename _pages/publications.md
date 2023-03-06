@@ -15,9 +15,9 @@ Y. Laguel.
 
 
 ## Journal Papers
-**[8]High Probability and Risk-Averse Guarantees for Stochastic Saddle Point Problems**
-Y. Laguel, M. Gürbüzbalaban, N. S. Aybat.
-*Preprint*
+**[8]High Probability and Risk-Averse Guarantees for Stochastic Saddle Point Problems.**  
+Y. Laguel, M. Gürbüzbalaban, N. S. Aybat.  
+*Preprint*.  
 [PDF](/files/risk-averse-minimax.pdf)
 
 **[7] Chance constrained problems: a bilevel convex optimization perspective.**  
