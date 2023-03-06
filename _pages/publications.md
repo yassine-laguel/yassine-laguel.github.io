@@ -15,26 +15,27 @@ Y. Laguel.
 
 
 ## Journal Papers
-**[8]A risk-averse perspective on acceleration for saddle point problems**
+**[8]High Probability and Risk-Averse Guarantees for Stochastic Saddle Point Problems**
 Y. Laguel, M. Gürbüzbalaban, N. S. Aybat.
-*In preparation*
+*Preprint*
+[PDF](/files/risk-averse-minimax.pdf)
 
-**[7] Push-Pull with Device Sampling.**  
-Y.-G. Hsieh, Y. Laguel, F. Iutzeler, J. Malick.  
-*Submitted*.  
-[PDF](/files/ppds-paper.pdf)  
-
-**[6] Federated Learning with Heterogeneous Data: A Superquantile Optimization Approach.**  
-Y. Laguel<sup>\*</sup>, K. Pillutla<sup>\*</sup>, J. Malick, Z. Harchaoui.
-*Submitted*.  
-[PDF](https://arxiv.org/pdf/2112.09429.pdf)  
-
-**[5] Chance constrained problems: a bilevel convex optimization perspective.**  
+**[7] Chance constrained problems: a bilevel convex optimization perspective.**  
 Y. Laguel<sup>\*</sup>, W. Van Ackooij, J. Malick.  
-*Submitted*.  
+*Preprint*.  
 [PDF](https://yassine-laguel.github.io/files/taco-paper.pdf) &nbsp;
 [Code](https://github.com/yassine-laguel/taco) &nbsp;
 [Video](https://www.youtube.com/watch?v=KB3sV-trEy4&list)  
+
+**[6] Push-Pull with Device Sampling.**  
+Y.-G. Hsieh, Y. Laguel, F. Iutzeler, J. Malick.  
+*Transaction on Automatic Control*.  
+[PDF](/files/ppds-paper.pdf)  
+
+**[5] Federated Learning with Heterogeneous Data: A Superquantile Optimization Approach.**  
+Y. Laguel<sup>\*</sup>, K. Pillutla<sup>\*</sup>, J. Malick, Z. Harchaoui.
+*Machine Learning Journal*.  
+[PDF](https://arxiv.org/pdf/2112.09429.pdf)  
 
 **[4] Superquantile-based learning: a direct approach using gradient-based optimization**  
 Y. Laguel, J. Malick, Z. Harchaoui. (Journal version of [1](https://arxiv.org/abs/2009.14575))  
