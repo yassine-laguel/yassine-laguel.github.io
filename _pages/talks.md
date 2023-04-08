@@ -6,6 +6,18 @@ redirect_from:
   - /talks.html
 ---
 
+**Columbia's Statistical Machine Learning Symposium**  
+High probability and risk-averse guarantees for stochastic saddle point problems - April 2023
+*New York, USA*  
+
+**CSML Princeton Seminar**  
+Robustness for models and algoorithms in machine learning - November 2022
+*Princeton, USA*  
+
+**INFORMS 2022**  
+New perspectives on robustness via the Conditional Value at Risk - October 2022
+*Lehigh, USA*  
+
 **ICCOPT 2022**  
 New perspectives on robustness via the Conditional Value at Risk - July 2022
 *Lehigh, USA*  
