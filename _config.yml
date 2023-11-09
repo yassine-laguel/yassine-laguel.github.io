@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yassine Laguel"
 title_separator          : "-"
 name                     : &name "Yassine Laguel"
-description              : &description "Rutgers University"
+description              : &description "Université Côte d'Azur"
 url                      : https://yassine-laguel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yassine-laguel.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yassine Laguel"
   avatar           : "profile_101.jpeg"
-  bio              : "Rutgers University"
+  bio              : "Université Côte d'Azur"
   location         : #"University Grenoble Alpes"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
