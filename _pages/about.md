@@ -10,9 +10,9 @@ redirect_from:
 
 <!-- ***I’m on the market for a postdoc position!*** -->
 
-I’m an associate professor at Université Côte d’Azur, and a member of the [Probabilités and Statistiques Team](https://math.univ-cotedazur.fr) of the Laboratoire Jean Alexandre Dieudonné.
+I’m an Associate Professor at Université Côte d’Azur, and a member of the [Probabilités and Statistiques Team](https://math.univ-cotedazur.fr) of the Laboratoire Jean Alexandre Dieudonné.
 
-Prior to this position, I was a postdoctoral researcher at Rutgers University, working with [Mert Gürbüzbalaban](https://scholar.google.fr/citations?hl=fr&user=m-nZ7MgAAAAJ). During Fall semester 2022, I was also a departmental guest at the Center for Statistics and Machine Learning (CSML) at Princeton Unversity.I completed my Ph. D. at the Laboratoire Jean Kuntzmann (Grenoble - France), under the supervision of [Jérôme Malick](https://ljk.imag.fr/membres/Jerome.Malick/). My Ph.D. thesis can be found [here](/files/phd_thesis.pdf).
+Prior to this position, I was a postdoctoral researcher at Rutgers University, working with [Mert Gürbüzbalaban](https://scholar.google.fr/citations?hl=fr&user=m-nZ7MgAAAAJ). I completed my Ph. D. at the Laboratoire Jean Kuntzmann (Grenoble - France), under the supervision of [Jérôme Malick](https://ljk.imag.fr/membres/Jerome.Malick/). My Ph.D. thesis can be found [here](/files/phd_thesis.pdf).
 
 Generally speaking, I am interested in optimization problems involving uncertainty and their applications, in both stochastic programming and machine learning.
 
