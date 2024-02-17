@@ -41,7 +41,7 @@ Prior to this position, I was a postdoctoral researcher at Rutgers University, w
 
 
 <div style="font-family: Arial, sans-serif;">
-    <b style="font-size:22px; font-family: 'Lora', sans-serif; margin-bottom: 10px; display: block;">News</b>
+    <b style="font-size:15px; font-family: 'Lora', sans-serif; margin-bottom: 10px; display: block;">News</b>
     <ul style="list-style-type: square; padding-left: 20px;">
         <li>
             Feb-01-2024 : Presenting our work on stochastic minmax problems to the Optimization Seminar of Avignon Université.
