@@ -1,5 +1,6 @@
 ---
 author_profile: true
+title: "Project"
 redirect_from:
   - /sfl-overview
   - /sfl-overview.html
