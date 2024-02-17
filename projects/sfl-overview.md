@@ -1,13 +1,13 @@
 ---
 author_profile: true
-title: "Project"
+title: ""
 redirect_from:
   - /sfl-overview
   - /sfl-overview.html
 ---
-
+<h3 style="font-weight:normal, text-align: center">
 Federated Learning with Superquantile Aggregation for Heterogeneous Data
-=========================================================================
+</h3>
 
 <div style="text-align: center">
     <table align=center>
