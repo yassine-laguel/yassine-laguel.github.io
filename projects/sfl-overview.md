@@ -2,62 +2,53 @@
 Federated Learning with Superquantile Aggregation for Heterogeneous Data
 =========================================================================
 
-.. raw:: html
-
-    <div style="text-align: center">
-        <table align=center>
-            <tr>
-                <h4 style="font-weight:normal, text-align: center">
-                    <a href="https://krishnap25.github.io">Krishna Pillutla</a><sup>1*</sup>,
-                    <a href="https://yassine-laguel.github.io/">Yassine Laguel</a><sup>2*</sup>,
-                    <a href="https://membres-ljk.imag.fr/Jerome.Malick/cv.html">Jérôme Malick</a><sup>3</sup>,
-                    <a href="http://faculty.washington.edu/zaid/">Zaid Harchaoui</a><sup>4</sup>
-                </h4>
-            </tr>
-            <tr>
-                  <h5 style="font-weight:normal">
-                    <sup>1</sup>Google Research,
-                    <sup>2</sup>Université Côte d’Azur,
-                    <sup>3</sup>CNRS,
-                    <sup>4</sup>University of Washington, <br>
-                    <sup>*</sup>Equal Contribution
-                  </h5>
-            </tr>
-            <tr>
-                  <h4 style="font-weight:normal">
-                    Machine Learning Journal (2023). <br>
-                    Preliminary versions in IEEE CISS 2021 and
-                    DistShift-NeurIPS 2022 (Spotlight).
-                  </h4>
-            </tr>
-            <tr>
-                  <h4 style="font-weight:normal">
-                    <a href="https://link.springer.com/article/10.1007/s10994-023-06332-x">
-                      [Paper]
-                    </a>  &nbsp;
-                    <a href="https://arxiv.org/pdf/2112.09429.pdf">
-                      [ArXiv]
-                    </a>  &nbsp;
-                    <a href="https://github.com/krishnap25/sqwash">
-                      [Software]
-                    </a>  &nbsp;
-                    <a href="https://github.com/krishnap25/simplicial-fl">
-                      [Code]
-                    </a>  &nbsp;
-                  </h4>
-            </tr>
-        </table>
-    </div>
-
-..
-    This is a comment
+<div style="text-align: center">
+    <table align=center>
+        <tr>
+            <h4 style="font-weight:normal, text-align: center">
+                <a href="https://krishnap25.github.io">Krishna Pillutla</a><sup>1*</sup>,
+                <a href="https://yassine-laguel.github.io/">Yassine Laguel</a><sup>2*</sup>,
+                <a href="https://membres-ljk.imag.fr/Jerome.Malick/cv.html">Jérôme Malick</a><sup>3</sup>,
+                <a href="http://faculty.washington.edu/zaid/">Zaid Harchaoui</a><sup>4</sup>
+            </h4>
+        </tr>
+        <tr>
+              <h5 style="font-weight:normal">
+                <sup>1</sup>Google Research,
+                <sup>2</sup>Université Côte d’Azur,
+                <sup>3</sup>CNRS,
+                <sup>4</sup>University of Washington, <br>
+                <sup>*</sup>Equal Contribution
+              </h5>
+        </tr>
+        <tr>
+              <h4 style="font-weight:normal">
+                Machine Learning Journal (2023). <br>
+                Preliminary versions in IEEE CISS 2021 and
+                DistShift-NeurIPS 2022 (Spotlight).
+              </h4>
+        </tr>
+        <tr>
+              <h4 style="font-weight:normal">
+                <a href="https://link.springer.com/article/10.1007/s10994-023-06332-x">
+                  [Paper]
+                </a>  &nbsp;
+                <a href="https://arxiv.org/pdf/2112.09429.pdf">
+                  [ArXiv]
+                </a>  &nbsp;
+                <a href="https://github.com/krishnap25/sqwash">
+                  [Software]
+                </a>  &nbsp;
+                <a href="https://github.com/krishnap25/simplicial-fl">
+                  [Code]
+                </a>  &nbsp;
+              </h4>
+        </tr>
+    </table>
+</div>
 
 
-.. image:: images/sfl-illustration.png
-    :width: 900px
-    :align: center
-    :alt: alternate text
-
+<img src="/images/sfl-illustration.png" alt="alternate text" width="900" style="display: block; margin: 0 auto;">
 
 We present a federated learning framework that is designed to robustly deliver good predictive performance across individual clients with heterogeneous data. The proposed approach hinges upon a superquantile/CVaR learning objective that captures the tail statistics of the error distribution over heterogeneous clients. We present a stochastic training algorithm that interleaves differentially private client filtering with federated averaging steps. We prove finite time convergence guarantees for the in the nonconvex case in T communication rounds and the strongly convex case. Experimental results on benchmark datasets for federated learning demonstrate that our approach is competitive with classical ones in terms of average error and outperforms them in terms of tail statistics of the error.
 
@@ -71,20 +62,13 @@ We show results on the EMNIST dataset:
 
 These results show that our approach has a much better performance on the tail while being competitive on the average performance.
 
-.. image:: /images/sfl-results1.png
-    :width: 700px
-    :align: center
-    :alt: alternate text
+<img src="/images/sfl-results1.png" alt="alternate text" width="700" style="display: block; margin: 0 auto;">
 
 The next plot shows that this conclusion is true across a wide range of differential privacy parameters.
 
-.. image:: /images/sfl-results1.png
-    :width: 700px
-    :align: center
-    :alt: alternate text
+<img src="/images/sfl-results2.png" alt="alternate text" width="700" style="display: block; margin: 0 auto;">
 
-
-References (`Bibtex <_static/bibtex.bib>`_)
+References
 ------------
 [1] Pillutla, K., Laguel, Y., Malick J. and Harchaoui, Z., 2023.
 **Federated learning with superquantile aggregation for heterogeneous data**. Machine Learning, pp.1-68.
