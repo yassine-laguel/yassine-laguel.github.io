@@ -1,11 +1,9 @@
 ---
-layout: archive
 author_profile: true
 redirect_from:
   - /sfl-overview
   - /sfl-overview.html
 ---
-
 
 Federated Learning with Superquantile Aggregation for Heterogeneous Data
 =========================================================================
