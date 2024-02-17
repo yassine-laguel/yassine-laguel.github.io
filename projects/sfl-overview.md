@@ -1,10 +1,9 @@
 ---
-title: "SFL Overview"
-excerpt: "SFL Overview"
+layout: archive
 author_profile: true
 redirect_from:
-  - /projects/sfl-overview
-  - /projects/sfl-overview.html
+  - /sfl-overview
+  - /sfl-overview.html
 ---
 
 
