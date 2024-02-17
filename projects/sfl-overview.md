@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "SFL Overview"
 excerpt: "SFL Overview"
 author_profile: true
