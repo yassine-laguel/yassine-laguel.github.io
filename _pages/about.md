@@ -14,7 +14,7 @@ I’m an Associate Professor at Université Côte d’Azur, and a member of the 
 
 Prior to this position, I was a postdoctoral researcher at Rutgers University, working with [Mert Gürbüzbalaban](https://scholar.google.fr/citations?hl=fr&user=m-nZ7MgAAAAJ). I completed my Ph. D. at the Laboratoire Jean Kuntzmann (Grenoble - France), under the supervision of [Jérôme Malick](https://ljk.imag.fr/membres/Jerome.Malick/). My Ph.D. thesis can be found [here](/files/phd_thesis.pdf).
 
-Generally speaking, I am interested in optimization problems involving uncertainty and their applications, in both stochastic programming and machine learning.  A common thread in my research is the design and analysis of numerical algorithms to address risk in data-driven applications, notably in Federated Learning (see the webpage of our recent [project &#916;-FL](/projects/sfl-overview.md))
+Generally speaking, I am interested in optimization problems involving uncertainty and their applications, in both stochastic programming and machine learning.  A common thread in my research is the design and analysis of numerical algorithms to address risk in data-driven applications, notably in Federated Learning (see the webpage of our recent [project &#916;-FL](/projects/sfl-overview/))
 
 
 <div style="font-family: Arial, sans-serif;">
