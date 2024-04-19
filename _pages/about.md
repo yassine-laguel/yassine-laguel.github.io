@@ -22,6 +22,14 @@ Generally speaking, I am interested in optimization problems involving uncertain
     <ul style="list-style-type: none; padding-left: 0; font-size: 15px;">
         <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
             <div style="flex-shrink: 0; margin-right: 10px;">
+                <span style="font-weight: bold; font-size: 18px;">Apr-19-2024 :</span>
+            </div>
+            <div style="flex-grow: 1;">
+                Presenting our work on stochastic minmax problems at the Journée LJAD-Inria in Nice.
+            </div>
+        </li>
+        <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+            <div style="flex-shrink: 0; margin-right: 10px;">
                 <span style="font-weight: bold; font-size: 18px;">Mar-2024 :</span>
             </div>
             <div style="flex-grow: 1;">
