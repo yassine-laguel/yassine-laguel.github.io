@@ -22,6 +22,20 @@ Generally speaking, I am interested in optimization problems involving uncertain
     <ul style="list-style-type: none; padding-left: 0; font-size: 15px;">
         <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
             <div style="flex-shrink: 0; margin-right: 10px;">
+                <span style="font-weight: bold; font-size: 18px;">Mar-2024 :</span>
+            </div>
+            <div style="flex-grow: 1;">
+                Our <a href="https://arxiv.org/pdf/2103.10832.pdf"
+                       style="color: #007bff; text-decoration: none;"
+                       onmouseover="this.style.color='#0056b3'; this.style.textDecoration='underline';"
+                       onmouseout="this.style.color='#007bff'; this.style.textDecoration='none';"
+                       onfocus="this.style.color='#0056b3'; this.style.textDecoration='underline';"
+                       onblur="this.style.color='#007bff'; this.style.textDecoration='none';">paper</a>
+                on bilevel programming for chance constrained optimization was accepted in Computational Optimization and Applications (COAP).
+            </div>
+        </li>     
+        <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+            <div style="flex-shrink: 0; margin-right: 10px;">
                 <span style="font-weight: bold; font-size: 18px;">Feb-01-2024 :</span>
             </div>
             <div style="flex-grow: 1;">
