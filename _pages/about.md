@@ -30,7 +30,7 @@ Generally speaking, I am interested in optimization problems involving uncertain
         </li>
         <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
             <div style="flex-shrink: 0; margin-right: 10px;">
-                <span style="font-weight: bold; font-size: 18px;">Mar-2024 :</span>
+                <span style="font-weight: bold; font-size: 18px;">Mar-29-2024 :</span>
             </div>
             <div style="flex-grow: 1;">
                 Our <a href="https://arxiv.org/pdf/2103.10832.pdf"
