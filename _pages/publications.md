@@ -6,21 +6,15 @@ redirect_from:
   - /publications.html
 ---
 
-## Ph.D. Dissertation
-**Risk-averse optimization: models, algorithms and applications in machine learning.**  
-Y. Laguel.  
-*PhD Dissertation*.  
-[PDF](/files/phd_thesis.pdf)  
-
 ## Journal Papers
 **[8]High Probability and Risk-Averse Guarantees for Stochastic Saddle Point Problems.**  
 Y. Laguel, N. S. Aybat, M. Gürbüzbalaban.  
-*Preprint*.  
+*Journal of Machine Learning Research*.  
 [PDF](https://arxiv.org/pdf/2304.00444.pdf)  
 
 **[7] Chance constrained problems: a bilevel convex optimization perspective.**  
 Y. Laguel, W. Van Ackooij, J. Malick.  
-*Preprint*.  
+*Computational Optimization and Applications*.  
 [PDF](https://yassine-laguel.github.io/files/taco-paper.pdf) &nbsp;
 [Code](https://github.com/yassine-laguel/taco) &nbsp;
 [Video](https://www.youtube.com/watch?v=KB3sV-trEy4&list)  
@@ -60,6 +54,11 @@ G. Bareilles, Y. Laguel, D. Grishchenko, F. Iutzeler, J. Malick.
 
 ## Conference Papers
 
+**[5] High-probability complexity guarantees for nonconvex minimax problems.**  
+Y. Laguel, Y. Syed, N. S. Aybat, M. Gurbuzbalaban. 
+*NeurIPS 2024*.  
+[PDF](/files/sfl_neurips_2022.pdf)
+
 **[4] Tackling Distribution Shifts in Federated Learning with Superquantile Aggregation.**  
 Y. Laguel, K. Pillutla, J. Malick, Z. Harchaoui.  
 *NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and Applications - Spotlight Paper*.  
@@ -83,6 +82,12 @@ Y. Laguel, J. Malick, Z. Harchaoui.
 [PDF](https://arxiv.org/abs/2009.14575) &nbsp;
 [Code](https://github.com/yassine-laguel/spqr) &nbsp;
 [Video](https://www.youtube.com/watch?v=JRWvWxOxRiQ)  
+
+## Ph.D. Dissertation
+**Risk-averse optimization: models, algorithms and applications in machine learning.**  
+Y. Laguel.  
+*PhD Dissertation*.  
+[PDF](/files/phd_thesis.pdf)  
 
 <!--
 {% if author.googlescholar %}

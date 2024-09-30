@@ -16,6 +16,24 @@ Prior to this position, I was a postdoctoral researcher at Rutgers University, w
 
 Generally speaking, I am interested in optimization problems involving uncertainty and their applications, in both stochastic programming and machine learning.  A common thread in my research is the design and analysis of numerical algorithms to address risk in data-driven applications, notably in Federated Learning (see the webpage of our recent [project &#916;-FL](/projects/sfl-overview/)).
 
+<div style="font-family: Arial, sans-serif;">
+  <b style="font-size:22px; font-family: 'Lora', sans-serif; margin-bottom: 10px; display: block;">Open Positions</b>
+  <ul style="list-style-type: none; padding-left: 0; font-size: 15px;">
+      <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+          <div style="flex-shrink: 0; margin-right: 10px;">
+              <span style="font-weight: bold; font-size: 18px;">2024-2025 :</span>
+          </div>
+          <div style="flex-grow: 1;">
+              Master internship + PHD on <a href="/files/master_internship_subject1.pdf"
+                   style="color: #007bff; text-decoration: none;"
+                   onmouseover="this.style.color='#0056b3'; this.style.textDecoration='underline';"
+                   onmouseout="this.style.color='#007bff'; this.style.textDecoration='none';"
+                   onfocus="this.style.color='#0056b3'; this.style.textDecoration='underline';"
+                   onblur="this.style.color='#007bff'; this.style.textDecoration='none';">adaptive methods for safe machine learning</a> with Samuel Vaiter.
+          </div>
+      </li>
+  </ul>
+</div>
 
 <div style="font-family: Arial, sans-serif;">
     <b style="font-size:22px; font-family: 'Lora', sans-serif; margin-bottom: 10px; display: block;">News</b>
