@@ -22,8 +22,7 @@ Generally speaking, I am interested in optimization problems involving uncertain
     <ul style="list-style-type: none; padding-left: 0; font-size: 15px;">
         <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
             <div style="flex-shrink: 0; margin-right: 10px;">
-                <span style="font-weight: bold; font-size: 18px;">Sep-26
-                -2024 :</span>
+                <span style="font-weight: bold; font-size: 18px;">Sep-26-2024 :</span>
             </div>
             <div style="flex-grow: 1;">
               Our <a href="https://arxiv.org/pdf/2405.14130"
@@ -31,13 +30,12 @@ Generally speaking, I am interested in optimization problems involving uncertain
                    onmouseover="this.style.color='#0056b3'; this.style.textDecoration='underline';"
                    onmouseout="this.style.color='#007bff'; this.style.textDecoration='none';"
                    onfocus="this.style.color='#0056b3'; this.style.textDecoration='underline';"
-                   onblur="this.style.color='#007bff'; this.style.textDecoration='none';">paper</a>, on high probability guarantees for non-convex stochastic min-max problems was accepted to Neurips 2024. See you in Vancouver!
+                   onblur="this.style.color='#007bff'; this.style.textDecoration='none';">paper</a> on high probability guarantees for non-convex stochastic min-max problems was accepted to Neurips 2024. See you in Vancouver!
             </div>
         </li>
         <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
             <div style="flex-shrink: 0; margin-right: 10px;">
-                <span style="font-weight: bold; font-size: 18px;">May-23
-                -2024 :</span>
+                <span style="font-weight: bold; font-size: 18px;">May-23-2024 :</span>
             </div>
             <div style="flex-grow: 1;">
                 Our <a href="https://arxiv.org/pdf/2304.00444"
@@ -45,13 +43,12 @@ Generally speaking, I am interested in optimization problems involving uncertain
                        onmouseover="this.style.color='#0056b3'; this.style.textDecoration='underline';"
                        onmouseout="this.style.color='#007bff'; this.style.textDecoration='none';"
                        onfocus="this.style.color='#0056b3'; this.style.textDecoration='underline';"
-                       onblur="this.style.color='#007bff'; this.style.textDecoration='none';">paper</a>, on high probability guarantees for strongly monotone stochastic min-max problems was accepted to JMLR.
+                       onblur="this.style.color='#007bff'; this.style.textDecoration='none';">paper</a> on high probability guarantees for strongly monotone stochastic min-max problems was accepted to JMLR.
             </div>
         </li>
         <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
             <div style="flex-shrink: 0; margin-right: 10px;">
-                <span style="font-weight: bold; font-size: 18px;">May-23
-                -2024 :</span>
+                <span style="font-weight: bold; font-size: 18px;">May-23-2024 :</span>
             </div>
             <div style="flex-grow: 1;">
                 Presenting our work on stochastic minmax problems at <a href="https://jds2024.sciencesconf.org"
@@ -64,8 +61,7 @@ Generally speaking, I am interested in optimization problems involving uncertain
         </li>
         <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
             <div style="flex-shrink: 0; margin-right: 10px;">
-                <span style="font-weight: bold; font-size: 18px;">May-23
-                -2024 :</span>
+                <span style="font-weight: bold; font-size: 18px;">May-23-2024 :</span>
             </div>
             <div style="flex-grow: 1;">
                 Presenting our work on stochastic minmax problems at the University of Versailles.
@@ -73,8 +69,7 @@ Generally speaking, I am interested in optimization problems involving uncertain
         </li>
         <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
             <div style="flex-shrink: 0; margin-right: 10px;">
-                <span style="font-weight: bold; font-size: 18px;">May-05
-                -2024 :</span>
+                <span style="font-weight: bold; font-size: 18px;">May-05-2024 :</span>
             </div>
             <div style="flex-grow: 1;">
                 Giving a 4-day guest lecture on Distributionally Robust Optimization at the University of Tlemcen, in Algeria.
