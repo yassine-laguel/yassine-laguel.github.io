@@ -24,12 +24,12 @@ Generally speaking, I am interested in optimization problems involving uncertain
               <span style="font-weight: bold; font-size: 18px;">2024-2025 :</span>
           </div>
           <div style="flex-grow: 1;">
-              Master internship + PHD on <a href="/files/master_internship_subject1.pdf"
+              Master internship on <a href="/files/master_internship_subject1.pdf"
                    style="color: #007bff; text-decoration: none;"
                    onmouseover="this.style.color='#0056b3'; this.style.textDecoration='underline';"
                    onmouseout="this.style.color='#007bff'; this.style.textDecoration='none';"
                    onfocus="this.style.color='#0056b3'; this.style.textDecoration='underline';"
-                   onblur="this.style.color='#007bff'; this.style.textDecoration='none';">adaptive methods for safe machine learning</a> with Samuel Vaiter.
+                   onblur="this.style.color='#007bff'; this.style.textDecoration='none';">adaptive methods for safe machine learning</a> with Samuel Vaiter. We also have funding for a PhD!
           </div>
       </li>
   </ul>
